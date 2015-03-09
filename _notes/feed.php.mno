@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_home" value="name:UserID;datatype:int,name:Fname;datatype:string,name:Lname;datatype:string,name:Email;datatype:string,name:Telephone;datatype:string,name:Username;datatype:string,name:Password;datatype:string" />
+	<infoitem key="UD_feed" value="name:UserID;datatype:int,name:Fname;datatype:string,name:Lname;datatype:string,name:Email;datatype:string,name:Telephone;datatype:string,name:Username;datatype:string,name:Password;datatype:string" />
+</info>
